@@ -1,3 +1,13 @@
+# Netlify link
+
+https://nervous-bartik-2f4002.netlify.com/
+
+## To start:
+```
+npm start
+```
+
+
 # Netlify introduction
 
 ## Instructions
